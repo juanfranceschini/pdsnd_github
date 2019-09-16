@@ -1,11 +1,14 @@
-### 09/15/2019
+###Date created
+09/15/2019
 
-### BikeShare statistics
+###Project Title
+US Bikeshare project
 
-### Python script that lets answer interesting questions about  US bike share data through computing descriptive statistics.
+###Description
+Python script that lets you answer questions about US bikeshare data through computing statistics.
 
-### Files used
+###Files used
 Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+###Credits
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory
