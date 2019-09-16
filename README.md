@@ -2,7 +2,7 @@
 09/15/2019
 
 ###Project Title
-US Bikeshare project
+US Bikeshare Python Project
 
 ###Description
 Python script that lets you answer questions about US bikeshare data through computing statistics.
