@@ -1,15 +1,15 @@
-### Date created
-Include the date you created this project and README file.
+###Date created
+09/15/2019
 
-### Project Title
-Replace the Project Title
+###Project Title
+US Bikeshare Python Project
 
-### Description
-Describe what your project is about and what it does
+###Description
+Python script that lets you answer questions about US bikeshare data through computing statistics.
 
-### Files used
+###Files used
 Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+###Credits
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#Initializing-a-Repository-in-an-Existing-Directory
 
